@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PandaTcpExam", "PandaTcpExam\PandaTcpExam.csproj", "{A8BF1034-5200-4BCD-A340-4C2A206E2749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaTcpExam.Server", "PandaTcpExam.Server\PandaTcpExam.Server.csproj", "{EFCF13E5-6729-42CA-A385-DCA44963B0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaTcpExam.Common", "PandaTcpExam.Common\PandaTcpExam.Common.csproj", "{134E4C27-1A3D-4CA9-870F-E3110CB55C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BF1034-5200-4BCD-A340-4C2A206E2749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BF1034-5200-4BCD-A340-4C2A206E2749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BF1034-5200-4BCD-A340-4C2A206E2749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BF1034-5200-4BCD-A340-4C2A206E2749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCF13E5-6729-42CA-A385-DCA44963B0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCF13E5-6729-42CA-A385-DCA44963B0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCF13E5-6729-42CA-A385-DCA44963B0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCF13E5-6729-42CA-A385-DCA44963B0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{134E4C27-1A3D-4CA9-870F-E3110CB55C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134E4C27-1A3D-4CA9-870F-E3110CB55C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134E4C27-1A3D-4CA9-870F-E3110CB55C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134E4C27-1A3D-4CA9-870F-E3110CB55C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01D653FB-321C-4AED-ADE0-4FF34677EDD5}
+	EndGlobalSection
+EndGlobal
